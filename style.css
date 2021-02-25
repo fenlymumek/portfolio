@@ -1,0 +1,56 @@
+body {
+    font-family: "Avenir Next";
+    color: #2f5167;
+}
+.navbar {
+    background-color: #1ecbe1;
+}
+.navbar-brand{
+    color: #fff !important;
+  }
+.nav-item .nav-link {
+    color: white !important;
+}
+.nav-item .nav-link:hover {
+    background-color: tomato;
+}
+.jumbotron {
+    padding-top: 6rem;
+    color: #2f5167;
+}
+
+.jumbotron h1 {
+    padding-top: 120px;
+    font-size: 50px;
+}
+.desc {
+    font-family: "Poppins";
+    font-style: normal;
+}
+.card-body h5, p {
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+}
+
+.card {
+  border:1px solid #d6d6d6;
+  box-shadow:0 2px 3px 0px rgba(0,0,0,0.25);
+  border-radius:2px;
+}
+
+.btn {
+    background-color: tomato;
+    border-radius: 5px;
+    box-shadow: 0 5px #999;
+    outline: none;
+    color: #fff;
+}
+.btn:hover {
+    background-color: rgb(255, 84, 54);
+    color: #999;
+}
+
+section {
+    padding-top: 6rem;
+}
